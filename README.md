@@ -5,7 +5,4 @@ I am PhD Student at Neurospin, working on Deep Learning  method for reconstructi
 If you are interested by what I code or write, raise an issue on the dedicated repository. 
 
 
-<!---
-paquiteau/paquiteau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Github stats](https://github-readme-stats.vercel.app/api?username=paquiteau)
