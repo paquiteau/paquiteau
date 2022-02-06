@@ -5,6 +5,5 @@ I am PhD Student at Neurospin, working on Deep Learning  method for reconstructi
 If you are interested by what I code or write, raise an issue on the dedicated repository. 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=paquiteau&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paquiteau&theme=dark&hide=jupyter%20notebook)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=paquiteau&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Paquiteau's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paquiteau&hide=jupyter%20notebook&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
