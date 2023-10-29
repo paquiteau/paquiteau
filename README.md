@@ -1,6 +1,6 @@
 Hello there 👋, 
 
-## I’m [@paquiteau](https:github.com/paquiteau), a.k.a Pierre-Antoine Comby.
+## I am Pierre-Antoine Comby, a.k.a [@paquiteau](https:github.com/paquiteau)
 
 I am PhD Student at Neurospin, working on **Deep Learning methods** for reconstruction of **functional MRI images**.
 
