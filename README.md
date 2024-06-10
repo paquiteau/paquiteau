@@ -14,6 +14,7 @@ I am PhD Student at Neurospin, working on **Deep Learning methods** for reconstr
 
 ### If you are really interested by me: 
 
-- here is my [CV](https://perso.crans.org/comby/CV2.pdf)
+- here is my [CV](https://blog.comby.xyz/ox-hugo/CV2.pdf)
+- my [personal website](https://blog.comby.xyz)
 - .. and my [Linkedin](https://www.linkedin.com/in/pierre-antoine-comby/)
 
